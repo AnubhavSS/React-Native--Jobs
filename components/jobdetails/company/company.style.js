@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
   logoImage: {
     width: "100%",
    // aspectRatio:1,
-    height: "100%",
+    height: "100%",       
   },
   jobTitleBox: {
     marginTop: SIZES.small,
